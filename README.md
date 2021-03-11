@@ -1,6 +1,6 @@
 # I'm Evan, a below average Java developer
 # projects
- - Frostburn, a 1.16.5 client oriented towards anarchy servers.
+ - Frostburn, a utility mod for 1.16.5 oriented towards anarchy servers.
  - Athena, an external CS:GO cheat I made to learn C++.
  - NoBookKick, a Spigot plugin that fixes the book kick dupe for servers that aren't using 1.16.4+.
 # contacts
