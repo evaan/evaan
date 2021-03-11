@@ -2,7 +2,6 @@
 # projects
  - Frostburn, a 1.16.5 client oriented towards anarchy servers.
  - Athena, an external CS:GO cheat I made to learn C++.
- - Azurite, a 1.8.9 PvP client.
  - NoBookKick, a Spigot plugin that fixes the book kick dupe for servers that aren't using 1.16.4+.
 # contacts
 Website: [evan.bike](https://evan.bike)  
