@@ -1,6 +1,6 @@
 # I'm Evan, a below average Java developer
 # projects im currently working on
- - Frostburn, a utility mod for 1.17 oriented towards anarchy servers.
+ - nothing really atm, just small projects when i get bored
 # contacts
 Website: [evaan.xyz](https://evaan.xyz)  
 Discord: Evan#0004
