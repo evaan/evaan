@@ -2,7 +2,7 @@
 # projects im currently working on
  - nothing really atm, just small projects when i get bored
 # contacts
-Website: [evaan.xyz](https://evaan.xyz)  
+Website: [evaan.dev](https://evaan.dev)  
 Discord: Evan#0004
 <br/><br/>
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=evaan&show_icons=true&theme=dark)
